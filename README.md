@@ -1,4 +1,4 @@
 # Manoj-demo-repo
 This is my first Git Repository.
 <br>
-Author - Manoj Sihag
+Author - Manoj Sihag (mani)
